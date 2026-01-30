@@ -1,4 +1,4 @@
 package com.cc.java;
-public class Shape {
+public class Rectangle {
     
 }
